@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #006699;
+}
+
+label.Mui-focused {
+  color: white !important;
+}
+
+.MuiOutlinedInput-root {
+  color: antiquewhite !important;
+}
+
