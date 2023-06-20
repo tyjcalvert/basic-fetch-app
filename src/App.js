@@ -26,7 +26,7 @@ function App() {
       <Card sx={{ margin: "16px", minWidth: "98vw", background: "#006699", justifyContent: "center", textAlign: "center", }}>
         <CardContent>
           <Typography sx={{ fontSize: 22, fontWeight: "bold" }} color="white" gutterBottom>
-            Data can be pulled from internal or external source.
+            Data can be pulled from internal, or external source.
           </Typography>
           <TextField 
           id="tf" 
